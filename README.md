@@ -6,14 +6,18 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ali+%F0%9F%91%8B;Software+Enginner+Graduate;Full-Stack+Developer;Problem+Solver;" alt="Headline" />
     </div>
     <div align=center>
-       <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=My+Skills;" alt="Headline" />
-
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
+       <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     </div>
     <div align=left>
         <br>
@@ -28,8 +32,7 @@
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Develop My Skills in JavaScript.</a></li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/19QHTle5y5S6D3zSug_iMUr6NaMKB-iDw/view?usp=sharing
-">LINK TO MY RESUME</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1bKzxnZq8Pf9RYi3LdsrDEQNJuxlDGlmb/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>📫 <b>How to reach me</b>:  [Ali Mohammad](https://www.linkedin.com/in/ali-mohammad-849251242/)</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Cooking(👨‍🍳).</li>
         </ul>
