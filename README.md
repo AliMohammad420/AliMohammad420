@@ -33,7 +33,7 @@
             <li>🌱 <b>I’m currently learning</b>: Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Develop My Skills in JavaScript.</a></li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1bKzxnZq8Pf9RYi3LdsrDEQNJuxlDGlmb/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>📫 <b>How to reach me</b>:  [Ali Mohammad](https://www.linkedin.com/in/ali-mohammad-849251242/)</li>
+            <li>📫 <b>How to reach me</b>:  <a href="https://www.linkedin.com/in/ali-mohammad-849251242">Ali Mohammad</a></li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Cooking(👨‍🍳).</li>
         </ul>
     </div>
